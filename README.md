@@ -1,3 +1,3 @@
-components/Tasks.tsx
-App.tsx
+index.html
 components/Dashboard.tsx
+App.tsx
